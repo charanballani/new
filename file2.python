@@ -1,0 +1,5 @@
+//this is a python sample code
+import math
+r = 5 # radius
+area = math.pi * (r ** 2)
+print(area)
